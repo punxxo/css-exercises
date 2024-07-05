@@ -1,0 +1,43 @@
+.odd {
+    background-color: #ef808080;
+    font-family: sans-serif;
+}
+
+#two {
+    color: #027dbf;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #6dca6d;
+    font-size: 24px;
+    font-weight: bold;
+}
+/* 
+
+
+*/
+.even {
+    background-color: #4f4672b8;
+    font-family: sans-serif;
+}
+
+.sizing-font {
+    font-size: 24px;
+}
+
+#seven {
+    color: #027dbf;
+    font-size: 36px;
+}
+
+#nine {
+    background-color: #6dca6d;
+    font-weight: bold;
+}
+
+
